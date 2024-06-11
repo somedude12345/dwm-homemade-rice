@@ -1,0 +1,4 @@
+Rename vimrc to .vimrc
+Rename st-config.h to config.h and move it to the st folder
+Rename dwm-config.h to config.h and move it to the dwm folder
+
